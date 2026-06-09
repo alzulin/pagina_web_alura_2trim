@@ -1,1 +1,1 @@
-# Minha primeira página web! 😃
+# Minha primeira página web! &#x1F603
